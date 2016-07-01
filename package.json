@@ -1,0 +1,15 @@
+{
+  "name": "iconographer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-open": "^0.2.3",
+    "grunt-webfont": "^1.4.0"
+  }
+}
